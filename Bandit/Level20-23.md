@@ -1,3 +1,5 @@
+# Level 20-23
+` Các level dưới đây sẽ tập trung vào khái niệm *SetUID* và *Cronjob*.`
 ### Level 20
 ###### User: *bandit20* ; Password: *VxCazJaVykI6W36BkBU0mJTCM8rR95XT*
 ###### Trong bài này, có `suconnect` là một file thực thi theo cơ chế setuid, tức là thực thi chương trình theo quyền của người cấp chứ không phải người đang chạy.
