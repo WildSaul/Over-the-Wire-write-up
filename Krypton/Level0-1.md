@@ -4,7 +4,7 @@
 $ echo "S1JZUFRPTklTR1JFQVQ=" | base64 -d
 KRYPTONISGREAT
 ```
-
+-> Pass cho level 1 là `KRYPTONISGREAT`
 # Level 1
 > user: krypton1    pass: KRYPTONISGREAT
 ##### Đăng nhập, đọc file README trong `/krypton/krypton1`:
@@ -17,4 +17,5 @@ KRYPTONISGREAT
 $ cat krypton2 | tr 'a-zA-Z' 'n-za-mN-ZA-M'
 LEVEL TWO PASSWORD ROTTEN
 ```
+-> Pass cho level 2 là `ROTTEN`.
 
